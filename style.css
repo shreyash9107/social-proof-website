@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(240, 227, 240);
+}
+
+.img{
+    border-radius: 50%;
+    height: 35px;
+}
+
+.checked {
+    color: orange;
+  }
+
+.main-info{
+    position: absolute;
+    top:100px;
+    left:180px;
+    font-family: 'Spartan', sans-serif;
+}
+
+.info{
+    position: relative;
+    bottom: 80px;
+    
+}
+
+.info-2{
+    position: relative;
+    bottom: 55px;
+}
+
+.info-3{
+    position: relative;
+    bottom: 55px;
+}
+
+.headline{
+    color:  hsl(300, 43%, 22%); ;
+}
+
+.name{
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+}
+
+#star-review{
+    position: absolute;
+    color:hsl(300, 43%, 22%) ;
+    font-size: medium;
+    font-weight: 600;
+    text-align: center;
+    left: 800px;
+    top:120px;
+    width: 290px;
+    height: 40px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color:  rgb(228, 217, 228);
+}
+
+#star-guru{
+    position: absolute;
+    color:hsl(300, 43%, 22%) ;
+    font-size: medium;
+    font-weight: 600;
+    left: 820px;
+    top:185px;
+    width: 330px;
+    height: 40px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: rgb(228, 217, 228);
+}
+
+#star-tech{
+    position: absolute;
+    color:hsl(300, 43%, 22%) ;
+    font-size: medium;
+    font-weight: 600;
+    left: 840px;
+    top:250px;
+    padding-left: 10px;
+    width: 310px;
+    height: 40px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color:  rgb(228, 217, 228);
+}
+
+.Colton-Smith{
+    background-color: hsl(300, 43%, 22%);
+    position: absolute;
+    width:355px;
+    margin: 20px;
+    padding: 20px 30px;
+    height: 200px;
+    border-radius: 5px;
+    color:white;
+    top:350px;
+    left: 150px;
+}
+
+.Irene-Roberts{
+    background-color: hsl(300, 43%, 22%);
+    position: absolute;
+    width:355px;
+    padding: 20px 30px;
+    margin: 20px;
+    height: 200px;
+    border-radius: 5px;
+    color:white;
+    top:380px;
+    left: 530px;
+}
+
+.Anne-Wallace{
+    background-color: hsl(300, 43%, 22%);
+    position: absolute;
+    width:355px;
+    margin: 20px;
+    padding: 20px 30px;
+    height: 200px;
+    border-radius: 5px;
+    color:white;
+    top:410px;
+    left: 910px;
+}
+
+.attribution{
+    position: relative;
+    top: 700px;
+}
